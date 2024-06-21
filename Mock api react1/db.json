@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Sams Galaxy",
+      "brand": "Samsung",
+      "catageory": "Phones",
+      "price": "4330",
+      "description": "Samrtphones",
+      "createdAt": "2023-03-03",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Dell Latitude",
+      "brand": "Dell",
+      "catageory": "Laptops",
+      "price": "90000",
+      "description": "new Laptops",
+      "createdAt": "2024-05-05"
+    },
+    {
+      "id": "4",
+      "name": "Hp elite",
+      "brand": "HP",
+      "catageory": "Laptops",
+      "price": "90300",
+      "description": "Laptop",
+      "createdAt": "2024-05-05"
+    },
+    {
+      "id": "5",
+      "name": "Infinix Note 10",
+      "brand": "Infinix",
+      "catageory": "Phones",
+      "price": "30000",
+      "description": "new Phone",
+      "createdAt": "2024-05-05"
+    },
+    {
+      "id": "6",
+      "name": "Tecno Spark ",
+      "brand": "Tecno",
+      "catageory": "Phones",
+      "price": "40000",
+      "description": "Spark are good",
+      "createdAt": "2024-05-05"
+    },
+    {
+      "id": "7",
+      "name": "F15",
+      "brand": "Oppo",
+      "catageory": "Phones",
+      "price": "63000",
+      "description": "OOpp pohones",
+      "createdAt": "2024-05-05"
+    }
+  ]
+}
